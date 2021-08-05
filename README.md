@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### :lightsaber: Hello There!
 <!--
 **Leop4rdo/Leop4rdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
