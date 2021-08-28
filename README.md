@@ -19,8 +19,6 @@
   <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"> 
 </div>
 
-<hr />
-
 ### A little bit more about me
 - 🌱 I’m currently learning ReactJs and Java
 - 🔍 I'm currently looking to get experience
