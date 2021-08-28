@@ -21,6 +21,7 @@
 
 ### A little bit more about me
 - 🌱 I’m currently learning ReactJs and Java
+- 🎓 I'm currently doing Systems development at Senai
 - 🔍 I'm currently looking to get experience
 - 🌎 I live in São Paulo - Brazil :brazil:
 - ⚡ I love writing songs and making games
