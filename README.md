@@ -27,5 +27,5 @@
 - 🌱 I’m currently learning ReactJs and Java
 - 🎓 I'm currently doing Systems development at Senai
 - 🔍 I'm currently looking to get experience
-- 🌎 I live in São Paulo - Brazil :brazil:
+- 🌎 I live in São Paulo - Brazil 🇧🇷
 - ⚡ I love writing songs and making games
