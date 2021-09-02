@@ -19,7 +19,7 @@
   <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"> 
 </div>
 
-### You can find me on
+### You can find me at
 - <img align="center" alt="ReactJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   <a href="https://www.linkedin.com/in/leonardo-antunes-23737b208/">Linkedin</a>
   
