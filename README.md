@@ -5,6 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leop4rdo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leop4rdo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 ### My Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="ReactJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
