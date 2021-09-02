@@ -21,7 +21,7 @@
 
 ### You can find me at
 - <img align="center" alt="ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-  <a href="https://www.linkedin.com/in/leonardo-antunes-23737b208/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/leonardo-antunes-23737b208/" target="_blank">Linkedin</a>
   
 ### A little bit more about me
 - 🌱 I’m currently learning ReactJs and Java
