@@ -5,7 +5,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leop4rdo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leop4rdo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
 ### My Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="ReactJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
@@ -19,6 +18,10 @@
   <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"> 
 </div>
 
+### You can find me on
+- <img align="center" alt="ReactJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <a href="https://www.linkedin.com/in/leonardo-antunes-23737b208/">Linkedin</a>
+  
 ### A little bit more about me
 - 🌱 I’m currently learning ReactJs and Java
 - 🎓 I'm currently doing Systems development at Senai
