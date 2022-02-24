@@ -17,6 +17,8 @@
   <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Yarn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
   <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"> 
+  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
 </div>
 
@@ -25,7 +27,7 @@
   <a href="https://www.linkedin.com/in/leonardo-antunes-23737b208/" target="_blank">Linkedin</a>
   
 ### A little bit more about me
-- 🌱 I’m currently learning ReactJs and Java
+- 🌱 I’m currently learning NextJs, Kotlin and PHP
 - 🎓 I'm currently doing Systems development at Senai
 - 🔍 I'm currently looking to get experience
 - 🌎 I live in São Paulo - Brazil :brazil:
