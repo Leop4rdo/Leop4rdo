@@ -19,6 +19,7 @@
   <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"> 
   <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="NextJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
 </div>
 
@@ -30,5 +31,6 @@
 - 🌱 I’m currently learning NextJs, Kotlin and PHP
 - 🎓 I'm currently doing Systems development at Senai
 - 🔍 I'm currently looking to get experience
+- :heart: I'm a Linux enthusiast 
 - 🌎 I live in São Paulo - Brazil :brazil:
 - ⚡ I love writing songs and making games
