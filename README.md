@@ -1,5 +1,6 @@
-### console.log("Hello There! :wave:");
-# I'm Leonardo Antunes
+<h4 align="center">console.log("Hi 👋");</h1>
+<h1 align="center">I'm Leonardo Antunes</h3>
+
 <div>
   <a href="https://github.com/Leop4rdo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leop4rdo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
