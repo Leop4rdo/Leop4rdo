@@ -16,12 +16,13 @@
   <img align="center" alt="Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Yarn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
   <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"> 
   <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="NextJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
+  <img align="center" alt="TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  
 </div>
 
 ### You can find me at
@@ -29,9 +30,9 @@
   <a href="https://www.linkedin.com/in/leonardo-antunes-23737b208/" target="_blank">Linkedin</a>
   
 ### A little bit more about me
-- 🌱 I’m currently learning NextJs, Kotlin and PHP
+- 🌱 I’m currently learning TypeORM, Clean archtecture and .Net
 - 🎓 I'm currently doing Systems development at Senai
 - 🔍 I'm currently looking to get experience
-- :heart: I'm a Linux enthusiast 
+- :heart: I'm a Linux and open source enthusiast 
 - 🌎 I live in São Paulo - Brazil :brazil:
 - ⚡ I love writing songs and making games
