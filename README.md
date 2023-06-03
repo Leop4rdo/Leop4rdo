@@ -30,9 +30,6 @@
   <a href="https://www.linkedin.com/in/leonardo-antunes-23737b208/" target="_blank">Linkedin</a>
   
 ### A little bit more about me
-- 🌱 I’m currently learning TypeORM, Clean archtecture and .Net
-- 🎓 I'm currently doing Systems development at Senai
-- 🔍 I'm currently looking to get experience
-- :heart: I'm a Linux and open source enthusiast 
+- 🌱 I’m currently learning Go, Rust, and software architecture
 - 🌎 I live in São Paulo - Brazil :brazil:
 - ⚡ I love writing songs and making games
